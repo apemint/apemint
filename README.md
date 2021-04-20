@@ -14,11 +14,11 @@ var apemint = {
 ```
 
 ## Projects I've worked on:
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nickkdb&repo=FlightSaver&show_owner=false)](https://github.com/nickkdb/FlightSaver)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nickkdb&repo=Group5-Proj2&show_owner=false)](https://github.com/nickkdb/Group5-Proj2)  
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nickkdb&repo=FlightSaver&show_owner=false&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/nickkdb/FlightSaver)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=nickkdb&repo=Group5-Proj2&show_owner=false&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/nickkdb/Group5-Proj2)  
 
 ## I'm currently working on:  
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apemint&repo=magicCollectionTracker&show_owner=false)](https://github.com/apemint/magicCollectionTracker)  
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=apemint&repo=magicCollectionTracker&show_owner=false&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/apemint/magicCollectionTracker)  
 
 ### Languages and Tools:  
 
