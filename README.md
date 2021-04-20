@@ -17,5 +17,6 @@ var apemint = {
   
   
 ### Follow Me/Contact Me:
-[![Gmail](https://img.shields.io/badge/Escobar.Andres.Alfonso-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:escobar.andres.alfonso@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andres-a-escobar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/apemint)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andres-a-escobar/)  
+[![Gmail](https://img.shields.io/badge/Escobar.Andres.Alfonso-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:escobar.andres.alfonso@gmail.com)  
